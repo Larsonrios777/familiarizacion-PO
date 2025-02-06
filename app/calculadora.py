@@ -8,3 +8,5 @@ class calculadora:
 
     def multiply(self, a, b):
         return a * b
+    def divide(selfself, a, b):
+        return a / b
